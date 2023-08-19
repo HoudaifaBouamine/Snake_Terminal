@@ -81,7 +81,7 @@ public :
 		return current_non_confirmed_chose;
 	}
 
-	static enum enColor {
+	enum enColor {
 		enGray = 1,//8
 		enWhight,  //F
 		enGreen,   //2
